@@ -10,7 +10,7 @@ Li W, Li R, Yan Q, Feng Z, Ning J (2022+). "Conditional Concordance-assisted Lea
 
 (3) LogLikeExactC.CPP: codes of the CCAF function that is used in main.R. It is written in CPP language to boost computational speed.
 
-(2) sub.csv: example data file that contains disease stutus "Y", two biomarkers "X1" and "X2", matching group membership "Z", and "groupID" which shows the matched pairs
+(2) sub.csv: example data file that contains disease status "Y", two biomarkers "X1" and "X2", matching group membership "Z", and "groupID" which shows the matched pairs
 
 (3) full.csv: the full dataset that is used to generate the matched case-control data set "sub.csv". Note that there are no biomarker information in this data.
 
