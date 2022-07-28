@@ -6,7 +6,7 @@ Li W, Li R, Yan Q, Feng Z, Ning J (2022+). "Conditional Concordance-assisted Lea
 
 (1) main.R: R file contians wrapper functions used to implement the proposed method. It shows how to analyze the example dataset "sub.csv" and to validate the performance on "val_sub.csv". This is essentially on run of the simulatoins studies in the paper.
 
-(2) HelperFunctions.R: Helper functions that are used in main.R.
+(2) HelperFunctions.R: helper functions that are used in main.R.
 
 (3) LogLikeExactC.CPP: codes of the CCAF function that is used in main.R. It is written in CPP language to boost computational speed.
 
