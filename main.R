@@ -14,7 +14,7 @@ library(MASS)
 library(Rcpp)
 
 # go to the directory which saves the codes and example data
-setwd("Z:/2 Robust clogit most recent/SIM revision/code_submit_version")
+setwd("")
 sourceCpp("LogLikeExactC.cpp")
 source("HelperFunctions.R")
 
