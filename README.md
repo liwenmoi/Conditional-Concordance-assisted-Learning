@@ -2,7 +2,7 @@
 
 Excutable codes of the paper:
 
-Li W, Li R, Yan Q, Feng Z, Ning J (2022+). "Conditional Concordance-assisted Learning for Combining Biomarkers for Cancer Population Screening". In revision.
+Li W, Li R, Yan Q, Feng Z, Ning J (2023). "Conditional Concordance-assisted Learning for Combining Biomarkers for Cancer Population Screening". Statistics In Medicine.
 
 (1) main.R: R file contians wrapper functions used to implement the proposed method. It shows how to analyze the example dataset "sub.csv" and to validate the performance on "val_sub.csv". This is essentially on run of the simulatoins studies in the paper.
 
