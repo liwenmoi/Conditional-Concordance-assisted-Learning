@@ -4,7 +4,7 @@ Executable codes of the paper:
 
 Li W, Li R, Yan Q, Feng Z, Ning J (2023). "Conditional Concordance-assisted Learning for Combining Biomarkers for Cancer Population Screening". Statistics In Medicine.
 
-(1) main.R: R file contains wrapper functions used to implement the proposed method. It shows how to analyze the example dataset "sub.csv" and to validate the performance on "val_sub.csv". This is essentially one run of the simulations studies in the paper.
+(1) main.R: R file contains wrapper functions used to implement the proposed method. It shows how to analyze the example dataset "sub.csv" and to validate the performance on "val_sub.csv". This is essentially one run of the simulation studies in the paper.
 
 (2) HelperFunctions.R: helper functions that are used in main.R.
 
